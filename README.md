@@ -3,3 +3,5 @@ Aplicación que permite compartir archivos multimedia con los demás integrantes
 Consumo de la API de la nasa para traer información importante sobre algunos temas.
 Uso del traductor de google para configurar el idioma.
 Uso de google maps para poder establecer el lugar del evento
+
+Realizada con las tecnologias de HTML, CSS, JavaScript, Python, Frameworks como Flask, bootstrap y con MySQL como base de datos.
