@@ -2,7 +2,7 @@
 
 
 <div style="text-align:center;">
-    <img src="https://github.com/lauramejia900/Spaceweb/assets/93622576/7480016d-d907-497c-8c4d-c924635ae2e6" alt="image">
+    <img align="center" src="https://github.com/lauramejia900/Spaceweb/assets/93622576/7480016d-d907-497c-8c4d-c924635ae2e6" alt="image">
 </div>
 
 
