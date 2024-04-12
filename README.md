@@ -1,7 +1,9 @@
 <h1 align="center" id="title">SpaceWeb</h1>
 
 
-![image](https://github.com/lauramejia900/Spaceweb/assets/93622576/7480016d-d907-497c-8c4d-c924635ae2e6)
+<div style="text-align:center;">
+    <img src="https://github.com/lauramejia900/Spaceweb/assets/93622576/7480016d-d907-497c-8c4d-c924635ae2e6" alt="image">
+</div>
 
 
 <p id="description">It's an application designed for astronomy enthusiasts, providing a platform to share knowledge and engage with like-minded individuals, ranging from fellow enthusiasts to seasoned professionals in the field.</p>
