@@ -47,6 +47,8 @@ Technologies used in the project:
 *   Flask
 *   HTML
 *   CSS
+*   Boopstrap
+*   Python
 
 
 ## Author
