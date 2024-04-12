@@ -1,6 +1,6 @@
 <h1 align="center" id="title">SpaceWeb</h1>
 
-<p align="center">![image](https://github.com/lauramejia900/Spaceweb/assets/93622576/7480016d-d907-497c-8c4d-c924635ae2e6)</p>
+<img align="center">![image](https://github.com/lauramejia900/Spaceweb/assets/93622576/7480016d-d907-497c-8c4d-c924635ae2e6)</p>
 
 
 
